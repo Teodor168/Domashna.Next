@@ -1,0 +1,14 @@
+C:\Users\User\Documents\programirane\Domashna.Next\Domashna.Next\bin\Debug\net8.0\Domashna.Next.exe
+C:\Users\User\Documents\programirane\Domashna.Next\Domashna.Next\bin\Debug\net8.0\Domashna.Next.deps.json
+C:\Users\User\Documents\programirane\Domashna.Next\Domashna.Next\bin\Debug\net8.0\Domashna.Next.runtimeconfig.json
+C:\Users\User\Documents\programirane\Domashna.Next\Domashna.Next\bin\Debug\net8.0\Domashna.Next.dll
+C:\Users\User\Documents\programirane\Domashna.Next\Domashna.Next\bin\Debug\net8.0\Domashna.Next.pdb
+C:\Users\User\Documents\programirane\Domashna.Next\Domashna.Next\obj\Debug\net8.0\Domashna.Next.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\programirane\Domashna.Next\Domashna.Next\obj\Debug\net8.0\Domashna.Next.AssemblyInfoInputs.cache
+C:\Users\User\Documents\programirane\Domashna.Next\Domashna.Next\obj\Debug\net8.0\Domashna.Next.AssemblyInfo.cs
+C:\Users\User\Documents\programirane\Domashna.Next\Domashna.Next\obj\Debug\net8.0\Domashna.Next.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\programirane\Domashna.Next\Domashna.Next\obj\Debug\net8.0\Domashna.Next.dll
+C:\Users\User\Documents\programirane\Domashna.Next\Domashna.Next\obj\Debug\net8.0\refint\Domashna.Next.dll
+C:\Users\User\Documents\programirane\Domashna.Next\Domashna.Next\obj\Debug\net8.0\Domashna.Next.pdb
+C:\Users\User\Documents\programirane\Domashna.Next\Domashna.Next\obj\Debug\net8.0\Domashna.Next.genruntimeconfig.cache
+C:\Users\User\Documents\programirane\Domashna.Next\Domashna.Next\obj\Debug\net8.0\ref\Domashna.Next.dll
